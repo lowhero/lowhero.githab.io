@@ -1,78 +1,79 @@
 ---
-title: "Configuring the blog"
-description: "Learn how to configure the blog template"
-pubDate: "Oct 25 2024"
-published: true
-heroImage: "/src/assets/blog-placeholder-1.jpg"
-tags: ["setup"]
+title: Configuring the blog
+description: Learn how to configure the blog template
+published: false
+pubDate: Oct 25 2024
+heroImage: /src/assets/blog-placeholder-1.jpg
 ---
-
 Editing the code: Change the values in `src/config.json` to configure the blog to your liking, see below for more information.
 
 Editing using [pagecms](https://next.pagescms.org): After having logged in and opened your repository, click on "Website Configuration" and fill out the form, changing the values to your liking. Click "Save" to apply the changes (takes about 1 minute to deploy).
 
-## SITE_TITLE
+## SITE\_TITLE
 
-- will be shown in the title and meta tags and og image
+*   will be shown in the title and meta tags and og image
 
-## SITE_DESCRIPTION
+## SITE\_DESCRIPTION
 
-- will be shown in the meta tags
+*   will be shown in the meta tags
 
-## SITE_FAVICON
+## SITE\_FAVICON
 
-- will be used as the icon in the header and the favicon
+*   will be used as the icon in the header and the favicon
 
 ## NAME
 
-- used in the footer (c) YOUR_NAME
+*   used in the footer (c) YOUR\_NAME
 
-## POSTS_PER_PAGE
+## POSTS\_PER\_PAGE
 
-- how many posts to show on per paginated page (also used for tag pages)
+*   how many posts to show on per paginated page (also used for tag pages)
 
-## MANUAL_DARK_MODE
+## MANUAL\_DARK\_MODE
 
-- should we show the dark mode toggle?
-  (otherwise, it will be based on the user's system preferences)
+*   should we show the dark mode toggle? (otherwise, it will be based on the user's system preferences)
 
-## SEARCH_ENABLED
+## SEARCH\_ENABLED
 
-- should we show the search bar?
+*   should we show the search bar?
 
-## BASE_COLOR
+## BASE\_COLOR
 
-- shade of gray for the background
-  one of 'gray', 'neutral', 'stone', 'zinc', 'slate'
+*   shade of gray for the background one of 'gray', 'neutral', 'stone', 'zinc', 'slate'
 
-## ACCENT_COLOR
+## ACCENT\_COLOR
 
-- color of links, etc.
-  one of 'red', 'orange', 'amber', 'yellow', 'lime', 'green', 'emerald', 'teal',
-  'cyan', 'sky', 'blue', 'indigo', 'violet', 'purple', 'fuchsia', 'pink', 'rose'
+*   color of links, etc. one of 'red', 'orange', 'amber', 'yellow', 'lime', 'green', 'emerald', 'teal', 'cyan', 'sky', 'blue', 'indigo', 'violet', 'purple', 'fuchsia', 'pink', 'rose'
 
 ## SOCIAL MEDIA LINKS
 
-- set any of these to '' to hide the respective icon in the footer
+*   set any of these to '' to hide the respective icon in the footer
+    
+*   FACEBOOK\_URL
+    
+*   TWITTER\_URL
+    
+*   GITHUB\_URL
+    
+*   INSTAGRAM\_URL
+    
+*   LINKEDIN\_URL
+    
+*   YOUTUBE\_URL
+    
+*   SUBSTACK\_URL
+    
+*   EMAIL
+    
 
-- FACEBOOK_URL
-- TWITTER_URL
-- GITHUB_URL
-- INSTAGRAM_URL
-- LINKEDIN_URL
-- YOUTUBE_URL
-- SUBSTACK_URL
-- EMAIL
+## MANUAL\_SITE\_BASE
 
-## MANUAL_SITE_BASE
-
-- set this to true if you want to manually set the site and base url
-  (e.g. when not deploying to github pages)
+*   set this to true if you want to manually set the site and base url (e.g. when not deploying to github pages)
 
 ## SITE
 
-- will be set automatically when deploying to github pages
+*   will be set automatically when deploying to github pages
 
 ## BASE
 
-- will be set automatically when deploying to github pages
+*   will be set automatically when deploying to github pages
