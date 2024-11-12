@@ -9,6 +9,13 @@
   "BASE_COLOR": "stone",
   "ACCENT_COLOR": "emerald",
   "SOCIAL_LINKS": {
-    "EMAIL": "pleasehereismyemail@sobaka.net"
+    "FACEBOOK_URL": "#",
+    "TWITTER_URL": "#",
+    "INSTAGRAM_URL": "#",
+    "LINKEDIN_URL": "#",
+    "GITHUB_URL": "#",
+    "EMAIL": "pleasehereismyemail@sobaka.net",
+    "YOUTUBE_URL": "#",
+    "SUBSTACK_URL": "#"
   }
 }
