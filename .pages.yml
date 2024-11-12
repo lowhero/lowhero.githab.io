@@ -32,13 +32,13 @@ content:
         label: Enable search
         type: boolean
         default: true
-      - name: emerald
+      - name: BASE_COLOR
         label: Base color
         type: select
         options:
-          values: [slate, stone, gray, neutral, teal]
-      - name: emerald
-        label: Emerald color
+          values: [slate, stone, gray, neutral, zinc]
+      - name: ACCENT_COLOR
+        label: Accent color
         type: select
         options:
           values:
@@ -68,7 +68,6 @@ content:
           - name: EMAIL
             label: Email
             type: string
-
 
   - name: about
     label: About page
