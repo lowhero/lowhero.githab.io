@@ -38,7 +38,7 @@ content:
         options:
           values: [slate, stone, gray, neutral, teal]
       - name: emerald
-        label: Accent color
+        label: Emerald color
         type: select
         options:
           values:
