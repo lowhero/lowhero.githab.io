@@ -36,7 +36,7 @@ content:
         label: Base color
         type: select
         options:
-          values: [emerald, stone, gray, neutral, zinc]
+          values: [slate, stone, gray, neutral, emerald]
       - name: ACCENT_COLOR
         label: Accent color
         type: select
