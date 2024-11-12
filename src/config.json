@@ -7,15 +7,8 @@
   "MANUAL_DARK_MODE": true,
   "SEARCH_ENABLED": true,
   "BASE_COLOR": "stone",
-  "ACCENT_COLOR": "amber",
+  "ACCENT_COLOR": "emerald",
   "SOCIAL_LINKS": {
-    "FACEBOOK_URL": "nothing@sobaka.com",
-    "TWITTER_URL": "nothing@sobaka.com",
-    "INSTAGRAM_URL": "nothing@sobaka.com",
-    "LINKEDIN_URL": "nothing@sobaka.com",
-    "GITHUB_URL": "nothing@sobaka.com",
-    "EMAIL": "pleasehereismyemail@sobaka.net",
-    "YOUTUBE_URL": "nothing@sobaka.com",
-    "SUBSTACK_URL": "nothing@sobaka.com"
+    "EMAIL": "pleasehereismyemail@sobaka.net"
   }
 }
