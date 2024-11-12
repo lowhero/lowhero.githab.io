@@ -6,7 +6,7 @@
   "POSTS_PER_PAGE": 5,
   "MANUAL_DARK_MODE": true,
   "SEARCH_ENABLED": true,
-  "BASE_COLOR": "stone",
+  "BASE_COLOR": "neutral",
   "ACCENT_COLOR": "emerald",
   "SOCIAL_LINKS": {
     "FACEBOOK_URL": "#",
