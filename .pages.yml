@@ -32,12 +32,12 @@ content:
         label: Enable search
         type: boolean
         default: true
-      - name: BASE_COLOR
+      - name: emerald
         label: Base color
         type: select
         options:
-          values: [emerald, emerald, gray, neutral, emerald]
-      - name: ACCENT_COLOR
+          values: [slate, stone, gray, neutral, teal]
+      - name: emerald
         label: Accent color
         type: select
         options:
