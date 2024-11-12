@@ -2,10 +2,13 @@
   "SITE_TITLE": "Блог о программировании",
   "SITE_DESCRIPTION": "...",
   "SITE_FAVICON": "☠️",
-  "NAME": "flo-bit",
+  "NAME": "lowhero",
   "POSTS_PER_PAGE": 5,
   "MANUAL_DARK_MODE": true,
   "SEARCH_ENABLED": true,
   "BASE_COLOR": "stone",
-  "ACCENT_COLOR": "amber"
+  "ACCENT_COLOR": "amber",
+  "SOCIAL_LINKS": {
+    "EMAIL": "pleasehereismyemail@sobaka.net"
+  }
 }
