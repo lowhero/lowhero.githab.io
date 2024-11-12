@@ -65,30 +65,10 @@ content:
         label: Social links
         type: object
         fields:
-          - name: FACEBOOK_URL
-            label: Facebook URL
-            type: string
-          - name: TWITTER_URL
-            label: Twitter URL
-            type: string
-          - name: INSTAGRAM_URL
-            label: Instagram URL
-            type: string
-          - name: LINKEDIN_URL
-            label: LinkedIn URL
-            type: string
-          - name: GITHUB_URL
-            label: GitHub URL
-            type: string
           - name: EMAIL
             label: Email
             type: string
-          - name: YOUTUBE_URL
-            label: YouTube URL
-            type: string
-          - name: SUBSTACK_URL
-            label: Substack URL
-            type: string
+
 
   - name: about
     label: About page
